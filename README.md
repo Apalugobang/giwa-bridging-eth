@@ -16,24 +16,33 @@ cd giwa-bridging-eth
 
 2. Install pnpm
 If you don't have pnpm, install it first:
+```bash
 npm install -g pnpm
+
 3. Install Dependencies
+```bash
 pnpm install
 
 ⚙️ Setup
 Create an .env file based on .env.example:
+```bash
 TEST_PRIVATE_KEY=your_private_key_here
 
 ▶️ Usage
 Run the project with:
+```bash
 pnpm start
+
 🔹 Deposit ETH to Giwa
 Use the following command to deposit to Giwa:
+```bash
 pnpm run deposit --amount 0.1 --to giwa
+
 🔹 Withdraw ETH from Giwa
 Use the following command to withdraw from Giwa:
+```bash
 pnpm run withdraw --amount 0.1 --from giwa
-
+```bash
 🛠 Tech Stack
 
 TypeScript
