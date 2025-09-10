@@ -11,15 +11,15 @@ A simple ETH bridging project built with TypeScript.
 Clone this repository and install dependencies:
 
 ```bash
-1. git clone https://github.com/Apalugobang/giwa-bridging-eth.git
+# 1. git clone https://github.com/Apalugobang/giwa-bridging-eth.git
 cd giwa-bridging-eth
 
-2. Install pnpm
+# 2. Install pnpm
 If you don't have pnpm, install it first:
 
 (`npm install -g pnpm`) 
 
-3. Install Dependencies
+# 3. Install Dependencies
 
 (`pnpm install`)
 
