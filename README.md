@@ -35,11 +35,15 @@ Use the following command to withdraw from Giwa:
 pnpm run withdraw --amount 0.1 --from giwa
 
 🛠 Tech Stack
+
 TypeScript
+
 Node.js
+
 pnpm
 
 📄 License
+
 MIT
 
 
